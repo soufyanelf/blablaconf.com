@@ -4,7 +4,8 @@
   </a>
 </p>
 <h1 align="center">
-  Blabla Conf Website
+  Blabla Conf V1 Website 
+  https://blablaconf.vercel.app/
 </h1>
 
 The website is built using [Nextjs](https://nextjs.org/)
