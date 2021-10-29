@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Blabla Conf V1 Website 
+  BlablaConf V1 Website 
   https://blablaconf.vercel.app/
 </h1>
 
